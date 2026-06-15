@@ -1,0 +1,24 @@
+# Simulation outputs
+*.out
+*.vcd
+*.json
+sim.out
+timing_test.*
+
+# Temporary files
+~$*
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Verilog
+*.o
+*.a
+work/
